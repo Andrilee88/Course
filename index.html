@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="practice this page">
+        <meta name="keywords" content="review">
+        <meta name="author" content="Andri Lee">
+        <meta name="copyright" content="Copyright 2024">
+        <title> Single Page CV</title>
+        <link rel="icon" type="image" href="https://img.icons8.com/3d-fluency/94/globe-africa.png" alt="globe-africa"/>
+        <style>
+            .box {
+                width: 50%; 
+                height: 100%; 
+                background-color: white; 
+                border: 2px solid #333; 
+                padding: 10px; 
+                margin: 20px;  
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">
+        <hr width="60%" color="black" size="2px" align="left"/>
+        <h1>Andri Lee</h1>
+
+    <section>
+        <h4 style="color:green">Junior Frontend Developer</h4>
+        <p>Imam Bonjol street Central Java</p>
+        <p>Pekalongan city, Indonesia</p> 
+        <p>(+62)821-3788-6418</p>
+    </section>
+
+    <section>
+        <h4 style="color:green">Skills</h4>
+        <p>HTML, CSS, 3ds Max, Autocad, Adobe Illustrator, Adobe Photoshop</p>
+    </section>
+
+    <section>
+        <h4 style="color:green">Education</h4>
+        <h3 style="color:royalblue">Pelita Harapan University, Indonesia - B.A Interior Design</h3>
+        <p>August 2008 to August 2012</p>
+    </section>
+    <section>
+        <h4 style="color:green"> Experiece</h4>
+        <h3 style="color:royalblue">Skin Clinic, Jakarta - Interior Design Development</h3>
+        <p>August 2018 to October 2020</p>
+        <ul>
+            <li>Design and Development New Clinic commercial in mall</li>
+            <li>Build new design for 20 Clinic</li>
+            <li>Making Bill of Quantity for all contractors</li>
+        </ul>
+        <p>Skill: Autocad, 3ds max, Photoshop, Illustrator, Microsoft Excel, </p>
+    </section>
+    <section>
+        <h3 style="color:royalblue">PT. Architectural Interiors, Jakarta - Project Manager</h3>
+        <p>August 2017 to August 2018</p>
+        <ul>
+            <li>to build interior Grab office in Jakarta</li>
+            <li>to ensure all team contractor run smoothly</li>
+            <li>to ensure the project finish on schedule</li>
+            <li>making BOQ for client</li>
+            <li>to list cost & budgeting</li>
+            <li>Risk management skill</li>
+            <li>to coordinating all teams to run the project smoothly</li>
+        </ul>
+        <p>Skills: Microsoft excel, communication, and autocad</p>
+    </section>
+    <section>
+        <h4 style="color:green">Across the Internet</h4>
+        <ul>
+        <li><a href="https://www.instagram.com/andri.lee88">Instagram</a></li>
+        <li><a href="tel:+62821-3788-6418">Contact</a></li>
+        <li><a href="https://github.com/Andrilee88">Github</a></li>
+        </ul>
+    </section>
+    </div>
+    </body>
+</html>
